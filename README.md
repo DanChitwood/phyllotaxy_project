@@ -1,4 +1,20 @@
-### 🌵 Parastichy Data Collection Instructions
+# Phyllotaxy Data Collection Project 🌵
+
+This repository contains the interactive tool for collecting parastichy data from plant images.
+
+### 🚀 How to use the tool
+No installation is required. You can run the tool directly in your browser via Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanChitwood/phyllotaxy_project/blob/main/PHYLLOTAXY_DATA.ipynb)
+
+1. Click the **Open in Colab** button above.
+2. Sign in with your Google Account.
+3. Select **Runtime** > **Run all** from the top menu, or click the Play button (▶) on the code cell.
+4. Scroll down to the bottom of the page to enter your info and upload your image.
+
+---
+
+## Parastichy Data Collection Instructions 🌀
 
 Follow these steps to trace the spiral patterns (parastichies) on your plant image.
 
