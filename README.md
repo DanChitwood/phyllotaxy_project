@@ -14,6 +14,14 @@ No installation is required. You can run the tool directly in your browser via G
 
 ---
 
+### 🎥 Video Tutorial
+If this is your first time using the tool, we highly recommend watching the video tutorial below:
+
+[![Phyllotaxy Project Tutorial](https://img.youtube.com/vi/jUSZy3QBZsk/0.jpg)](https://www.youtube.com/watch?v=jUSZy3QBZsk)  
+*Click the image above to watch the tutorial on YouTube.*
+
+---
+
 # Parastichy Data Collection Instructions 🌀
 
 Follow these steps to trace the spiral patterns (parastichies) on your plant image.
