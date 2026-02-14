@@ -14,7 +14,7 @@ No installation is required. You can run the tool directly in your browser via G
 
 ---
 
-## Parastichy Data Collection Instructions 🌀
+# Parastichy Data Collection Instructions 🌀
 
 Follow these steps to trace the spiral patterns (parastichies) on your plant image.
 
