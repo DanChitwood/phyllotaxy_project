@@ -59,7 +59,6 @@ Follow these steps to trace the spiral patterns (parastichies) on your plant ima
 --- 
 ### Phyllotaxy Lecture
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/DanChitwood/phyllotaxy_project/blob/main/PHYLLOTAXY_LECTURE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanChitwood/phyllotaxy_project/blob/main/PHYLLOTAXY_LECTURE.ipynb)
 
-To follow along with code during the lecture, click the **Open in Colab** button above. Or, you can simply follow the lecture using the Jupyter notebook in this github repo [here](https://github.com/DanChitwood/phyllotaxy_project/blob/main/PHYLLOTAXY_LECTURE.ipynb).
+To follow along with code during the lecture, click the **Open in Colab** button above. Or, you can simply follow the lecture using the Jupyter notebook in this GitHub repo [here](https://github.com/DanChitwood/phyllotaxy_project/blob/main/PHYLLOTAXY_LECTURE.ipynb).
